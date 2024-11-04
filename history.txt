@@ -1,0 +1,20 @@
+ls -la
+seq 11 20 
+cat num.txt 
+seq 1 10 
+cat num.txt 
+sort -nr 
+cat out.txt
+sleep 2 
+ rev num.txt 
+ rev 
+ grep 12
+ls 
+  wc 
+ ls
+lfas 
+ ls
+ lasdjflsda 
+ls
+ sleep 100
+jobs
